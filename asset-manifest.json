@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/composersbyera/static/css/main.516b8dc1.css",
-    "main.js": "/composersbyera/static/js/main.77fd89b5.js",
+    "main.js": "/composersbyera/static/js/main.cc3feec8.js",
     "static/media/guenther_forg.jpg": "/composersbyera/static/media/guenther_forg.ea54bcbc70f606d56ad9.jpg",
     "static/media/mona_lisa.jpg": "/composersbyera/static/media/mona_lisa.11b14f531b201b1ac910.jpg",
     "static/media/witches_sabbath.jpg": "/composersbyera/static/media/witches_sabbath.ae25e8a1c2129e5eb6a6.jpg",
@@ -15,10 +15,10 @@
     "static/media/treble_cleff.ico": "/composersbyera/static/media/treble_cleff.f86b7266095ea5a21f2e.ico",
     "index.html": "/composersbyera/index.html",
     "main.516b8dc1.css.map": "/composersbyera/static/css/main.516b8dc1.css.map",
-    "main.77fd89b5.js.map": "/composersbyera/static/js/main.77fd89b5.js.map"
+    "main.cc3feec8.js.map": "/composersbyera/static/js/main.cc3feec8.js.map"
   },
   "entrypoints": [
     "static/css/main.516b8dc1.css",
-    "static/js/main.77fd89b5.js"
+    "static/js/main.cc3feec8.js"
   ]
 }
