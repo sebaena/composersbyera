@@ -1,0 +1,104 @@
+/* body {
+    background: url('cortes2.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  } */
+
+  body {
+    background-color: #1a1a1a;
+    font-family: 'Montserrat', sans-serif;
+    
+  }
+  
+  h1{
+    font-family: 'Satisfy', cursive;
+  }
+  
+  h2{
+    font-weight:bold;
+    color:white;
+  }
+
+  h3{
+    font-weight:bold;
+    color:white;
+
+  }
+  
+
+  
+  .color-nav{
+    background-color: #1a1a1a ;
+  }
+  .btn-dark{
+    background-color: #1a1a1a ;
+  }
+
+ 
+  footer {
+    text-align: center;
+    font-size: small;
+    padding-top: 10rem;
+    background-color:#1a1a1a;
+    color: rgb(102, 102, 102);
+  }
+
+  .my-modal .modal-content{
+    background-color: #1a1a1a;
+    color: white;
+  }
+ 
+  .list-group-item {
+    border-color: rgb(65, 63, 63);
+    color: white;
+    background-color: #1a1a1a;
+    content: "●";
+    margin-right: 0.75rem;
+  }
+  .list-group-item::before {
+    content: "●";
+    margin-right: 0.75rem;
+  }
+
+  .my-titles{
+    /* font-weight: bold; */
+    font-size: 35px;
+    font-family: 'Satisfy', cursive;
+    color:rgb(255, 255, 255);
+  }
+
+  .my-card{
+    background-color: #1a1a1a;
+  }
+
+.modal-title{
+  color: #000000;
+}
+
+.card :hover{
+  /* box-shadow: 8px 8px 8px rgb(140, 140, 140); */
+  transition-duration: 1s;
+  transform:scale(1.05);
+}
+
+
+.my-masonry-grid {
+  display: -webkit-box; /* Not needed if autoprefixing */
+  display: -ms-flexbox; /* Not needed if autoprefixing */
+  display: flex;
+  margin-left: -30px; /* gutter size offset */
+  width: auto;
+}
+.my-masonry-grid_column {
+  padding-left: 30px; /* gutter size */
+  background-clip: padding-box;
+}
+
+/* Style your items */
+.my-masonry-grid_column > div { 
+  /* background: #d2d0d0; */
+  margin-bottom: 30px;
+}
+
