@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predebloy":"npm run build",
+    "predebloy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,5 +47,16 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebaena/composersbyera.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebaena/composersbyera/issues"
   }
 }
