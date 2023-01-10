@@ -13,9 +13,9 @@ import "./index.css";
 
 const App = () => {
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<RootLayout />}>
+    // <Router>
+    <Routes>
+      {/* <Route path="/" element={<RootLayout />}>
           <Route index element={<Periods />} />
           <Route
             path="Medieval"
@@ -72,11 +72,11 @@ const App = () => {
             element={
               <TimePeriod path={"21st Century"} time_period="21st Century" />
             }
-          />
-          <Route path="About" element={<About />} />
-        </Route>
-      </Routes>
-    </Router>
+          /> */}
+      <Route path="/" element={<About />} />
+      {/* </Route> */}
+    </Routes>
+    // </Router>
   );
 };
 
