@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sebaena.github.io/composersbyera/#",
   "name": "composerbyera",
+  "homepage": "https://sebaena.github.io/composersbyera/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
