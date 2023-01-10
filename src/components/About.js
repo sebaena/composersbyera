@@ -15,7 +15,7 @@ const About = () => {
             https://openopus.org/
           </a>
         </p>
-        <h3> Known Issues</h3>
+        {/* <h3> Known Issues</h3> */}
         <p className="text-white font-weight-bold">
           The http request to the "Open Opus" API used to query data has proven
           to be unreliable at times. Sometimes the latency is huge, which
